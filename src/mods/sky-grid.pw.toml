@@ -1,0 +1,13 @@
+name = "Sky Grid"
+filename = "SkyGrid-1.1.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8e2d6d6b5d9ca5f7eb064d7e9733e83fcad9a506"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2602920
+project-id = 258633

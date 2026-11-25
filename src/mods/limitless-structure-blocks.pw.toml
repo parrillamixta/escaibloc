@@ -1,0 +1,13 @@
+name = "Limitless Structure Blocks"
+filename = "LimitlessStructureBlocks-1.12.2-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fd65a0d12692dbf0cbd5199b8607bed8263798d1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2698715
+project-id = 319265

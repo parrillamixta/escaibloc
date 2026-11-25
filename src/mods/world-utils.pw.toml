@@ -1,0 +1,13 @@
+name = "World Utils"
+filename = "worldutils-1.12.2-0.4.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7db57a6e20e74c2357fff1d596c800a9580f8e50"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2482888
+project-id = 254297

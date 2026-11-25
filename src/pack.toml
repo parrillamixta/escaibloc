@@ -1,0 +1,13 @@
+name = "SkyFactory 4"
+author = "Darkosto and others"
+version = "4.3.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "7a88b9e4a7c7242e1e96a6ab374f92f80d3333d93520c26dea23c8605037e292"
+
+[versions]
+forge = "14.23.5.2860"
+minecraft = "1.12.2"

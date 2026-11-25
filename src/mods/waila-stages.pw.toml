@@ -1,0 +1,13 @@
+name = "Waila Stages"
+filename = "WailaStages-1.12.2-2.0.24.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "76e9f76634008b94f83078d7561a7411b90987f6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2623611
+project-id = 269452

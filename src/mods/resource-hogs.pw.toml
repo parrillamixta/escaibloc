@@ -1,0 +1,13 @@
+name = "Resource Hogs"
+filename = "ResourceHogs-1.12.2-1.0.14.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "85c9aeee31cadeef68594d0f08da785417de5203"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2885072
+project-id = 303568

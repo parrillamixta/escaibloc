@@ -1,0 +1,13 @@
+name = "Sky Bonsais"
+filename = "SkyBonsais-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "87d406c390d7e69f012f5eef5fa7963def7cc075"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2697386
+project-id = 319153

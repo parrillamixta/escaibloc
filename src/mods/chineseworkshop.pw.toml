@@ -1,0 +1,13 @@
+name = "ChineseWorkshop"
+filename = "ChineseWorkshop-1.12.2_1.2.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2dba3f202ee83fd7023a3c2622d0826f42b6130a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2697612
+project-id = 291142

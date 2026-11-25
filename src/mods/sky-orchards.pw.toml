@@ -1,0 +1,13 @@
+name = "Sky Orchards"
+filename = "SkyOrchards-0.0.12.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8cfe8dc2f1d0e2ef9363941b18cfb88742ca7c50"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2697676
+project-id = 308807

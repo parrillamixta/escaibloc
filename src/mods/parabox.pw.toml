@@ -1,0 +1,13 @@
+name = "Parabox"
+filename = "Parabox-1.12.2-2.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "241e0f85d8c936199c47902a8dcbe6557614537c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2709835
+project-id = 305135

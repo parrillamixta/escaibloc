@@ -1,0 +1,13 @@
+name = "Dragon Murder"
+filename = "DragonMurder-1.12.2-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "92cad22c0f5e52f6ea8f0498d6ab776f023e0637"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2706534
+project-id = 320738

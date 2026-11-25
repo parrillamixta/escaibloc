@@ -1,0 +1,13 @@
+name = "OGDragon +"
+filename = "ogdragon-1.12.2-0.1.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b0dca98ae91118aa0a941e4ae8e59db70f18c4a6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2685166
+project-id = 303284

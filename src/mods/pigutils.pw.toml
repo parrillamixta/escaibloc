@@ -1,0 +1,13 @@
+name = "PigUtils"
+filename = "iChunUtil-1.12.2-7.1.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1d93d300ba907e394c9a4d7a5efd6c8bb9a79755"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2624814
+project-id = 296260

@@ -1,0 +1,13 @@
+name = "Stuff A Sock In It"
+filename = "StuffASockInIt-1.12.2-1.1.30.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "93af79994453107583e18606e766986ef828ae32"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2751155
+project-id = 262137

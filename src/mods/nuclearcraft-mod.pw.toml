@@ -1,0 +1,13 @@
+name = "NuclearCraft"
+filename = "NuclearCraft-2.18u-1.12.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f12d6d345041661bf3ecc9cf326ad902530e5fed"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2983115
+project-id = 226254

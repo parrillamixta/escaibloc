@@ -1,0 +1,13 @@
+name = "Animal Crops"
+filename = "AnimalCrops-1.12.2-0.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "97b841db4c75d446098d544d83795cb330b86dec"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2687368
+project-id = 304479

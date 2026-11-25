@@ -1,0 +1,13 @@
+name = "Primitive Crafting"
+filename = "primitivecrafting-1.12.2-1.4.4.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f54d097003e162e9e629ef78a500ff87cd65160c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3025966
+project-id = 302819
