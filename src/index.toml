@@ -189,6 +189,14 @@ file = "config/Tiny Progressions/Tools & Weapons.cfg"
 hash = "26ce557a46e5671becf320855ce4318a81abf020d792a4d6864bdf114317cabc"
 
 [[files]]
+file = "config/Universal Tweaks - Mod Integration.cfg"
+hash = "a56553bb158a76a1482702594d6b6ea2fbbcde2ad7d4778d2c02b486685660a6"
+
+[[files]]
+file = "config/Universal Tweaks - Tweaks.cfg"
+hash = "0ed375079222a181c2c46d8c1a218adc5101f749c9a50a40677bd82ada496e04"
+
+[[files]]
 file = "config/Waddles.cfg"
 hash = "57dceab26e70024be402a442e0860c7ee657f9c92bf6ab2505f801c6ade38930"
 
@@ -4133,6 +4141,11 @@ hash = "cb082110b2c2f67cdc41d24d91f1ec199b64fc036b6cd5140847426fb42e444d"
 metafile = true
 
 [[files]]
+file = "mods/cloudflared.pw.toml"
+hash = "abdfa1f65a7d3c387b6deed5a07ebea722740f7b6b27e40d515978ca359decb0"
+metafile = true
+
+[[files]]
 file = "mods/clumps.pw.toml"
 hash = "2acbe0f770a8303ecea88bc3ceef4ea6f76cb69206f15229647fb4773f0d9198"
 metafile = true
@@ -4178,6 +4191,11 @@ hash = "0db2170dc97ae296fc698e031fb473a62461000e0d691dbfc7610d02c1998c35"
 metafile = true
 
 [[files]]
+file = "mods/configanytime.pw.toml"
+hash = "defd8d7b171bb90e9ae3cc60f8c5e863346f74f7c43d90fd2a1519cc9b0e7f5f"
+metafile = true
+
+[[files]]
 file = "mods/constructs-armory.pw.toml"
 hash = "a93bfb03f0b8c9dd018ab91ce59e4c422aebe8ace06869fa8181ebf3c494611b"
 metafile = true
@@ -4220,6 +4238,11 @@ metafile = true
 [[files]]
 file = "mods/custom-main-menu.pw.toml"
 hash = "a09edf92bd331270af9f88a11df2b12b7d2f1397c5a8e91d8438404df46e8d04"
+metafile = true
+
+[[files]]
+file = "mods/custom-player-models.pw.toml"
+hash = "069e56cccccbab8c423b4b034b341d264ac6f99d9469a5d56277c554d5fc006c"
 metafile = true
 
 [[files]]
@@ -4345,6 +4368,11 @@ metafile = true
 [[files]]
 file = "mods/guide-api.pw.toml"
 hash = "84a12cab793e2dd8eeec5971365bc25b4a0ba26a4f6489d908a31f30162c9fdc"
+metafile = true
+
+[[files]]
+file = "mods/hammer-lib.pw.toml"
+hash = "8b263c3b1b0f83ac1984a84c9be17e40e092cb072aed146d20efae2b7f191c06"
 metafile = true
 
 [[files]]
@@ -4490,6 +4518,11 @@ metafile = true
 [[files]]
 file = "mods/mercurius.pw.toml"
 hash = "23b250679b8ce6d3152a4588fdf302abc95ec991d60ab1220df116bf70b57111"
+metafile = true
+
+[[files]]
+file = "mods/mixin-booter.pw.toml"
+hash = "582930fafbde3c07ba9103cc3fb3f3064da0043b5930caa89ed693098e65dc00"
 metafile = true
 
 [[files]]
@@ -4788,16 +4821,6 @@ hash = "5658fb3fc745ba472457092404524f95fecfbf4cd3e09ddb7d1990d9d8aa7480"
 metafile = true
 
 [[files]]
-file = "mods/surge.pw.toml"
-hash = "a21a851c0417dc7fb5ef23ea16a03958b679b49895a82df172e71615f8c9de01"
-metafile = true
-
-[[files]]
-file = "mods/swingthroughgrass.pw.toml"
-hash = "3f01c5fada47f907a911b22c947e3783ba1327a756951217b362e57358c7a4f0"
-metafile = true
-
-[[files]]
 file = "mods/sync.pw.toml"
 hash = "48b5445508e8a7b56f99cb554936b42d7037a884fd6775715e0c405ad3fbf2e2"
 metafile = true
@@ -4873,11 +4896,6 @@ hash = "acbc0366bb6be6f40f17b345df3d16caf7f1fa4d469eb9f709fad140080fc234"
 metafile = true
 
 [[files]]
-file = "mods/toast-control.pw.toml"
-hash = "c954e9326d0752cb6d742b2fb4810389ce84fb226fd3f654489fbc1e91f6f67e"
-metafile = true
-
-[[files]]
 file = "mods/together-forever.pw.toml"
 hash = "40311155c477ec2c1a65bd6bb31234739f62a2e9511ebf38cf3d322416925814"
 metafile = true
@@ -4905,6 +4923,11 @@ metafile = true
 [[files]]
 file = "mods/triumph.pw.toml"
 hash = "8137672b2e9682772d30abe84f818f752ef262a40e6214c42474f23ed8f7b28b"
+metafile = true
+
+[[files]]
+file = "mods/universal-tweaks.pw.toml"
+hash = "8eeb8151d0d8b8045a128e89cd89239bac297bcddb3b8c10348b12d5256f8633"
 metafile = true
 
 [[files]]
